@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonBishop84&layout=compact">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?- -- username=BrandonBishop84&layout=compact">
 
 [![BrandonBishop84's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonBishop84)](https://github.com/BrandonBishop84/github-readme-stats)
 
-
+-->
 
 <!--
 **BrandonBishop84/BrandonBishop84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
